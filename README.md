@@ -95,7 +95,7 @@ pip install -r requirements.txt
 # 4️. Add Environment Variables
 Create a .env file in the root directory:
 ```ini
-HUGGINGFACEHUB_API_TOKEN=your_huggingface_token_here
+OPENAI_API_KEY=your_openai_api_key_here
 ```
 
 ### 5️. Add Knowledge Base
