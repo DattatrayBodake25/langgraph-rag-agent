@@ -18,6 +18,23 @@ It is designed to answer factual, reasoning, or knowledge-based questions with t
 
 ---
 
+## How It Works & Challenges Faced
+### How It Works
+This project uses a LangGraph-based RAG Agent with four main nodes:
+1. Plan – Understands the query and decides if retrieval is needed.
+2. Retrieve – Fetches relevant chunks from a ChromaDB vector store using OpenAI embeddings.
+3. Answer – Uses an LLM to generate the final response based on retrieved context.
+4. Reflect – Evaluates the relevance of the answer and assigns a reflection score.
+A simple Streamlit UI allows users to ask questions interactively while detailed logs track every step.
+
+### Challenges Faced
+1. Fine-tuning retrieval accuracy and avoiding irrelevant chunks.
+2. Handling repetitive outputs from overlapping text splits.
+3. Adjusting the reflection scoring for better relevance judgment.
+4. Managing API limits and embedding performance during local runs.
+
+---
+
 ##  Tech Stack
 
 | Component | Technology |
