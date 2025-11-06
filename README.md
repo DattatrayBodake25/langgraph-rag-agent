@@ -126,15 +126,15 @@ Then open: http://localhost:8501 in your browser.
 
 ## Example Outputs
 ### On-topic Query
-Query: What are the applications of AI in transportation?
-Result:
+- Query: What are the applications of AI in transportation?
+- Result:
  - Retrieved 5 relevant chunks (scores 0.74–0.91)
  - Reflection Score: 0.75
  - Generated a complete, domain-relevant answer.
 
 ### Off-topic Query
-Query: Who won the Men's T20 World Cup 2016?
-Result:
+- Query: Who won the Men's T20 World Cup 2016?
+- Result:
  - Retrieved 0 relevant documents
  - Reflection Score: 0.0
  - Response: "I don't have enough information based on the provided data."
