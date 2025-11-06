@@ -1,0 +1,1776 @@
+Energy Department Note No. 53
+(Continuation of P.U.N. series)
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+ENERGY DEPARTMENT
+ENERGY NOTES
+RENEWABLE ENERGY
+February 19, 1980
+Central Projects Staff
+Energy Department
+This paper is one of a series issued by the Energy Department
+(formerly Energy, Water and Telecommunications Department) for
+the information and guidance of Bank staff working in the
+energy sector. It may not be published or quoted as representing
+the views of the Bank Group, and the Bank Group does not accept
+responsibility for its accuracy or completeness.
+
+
+RENEWABLE ENERGY
+ABSTRACT
+This paper was prepared to help set the stage for
+a Bank-wide consideration of the possible scope and content
+of an expanded Bank program of support for the development of
+new and renewable energy sources. It first discusses in
+general terms the role renewable energy may play in dealing
+with the problems related td oil prices and shortages of
+traditional fuels such as firewood,and then turns to discussions
+of specific renewable energy technologies.
+Prepared by: Messrs. R.S. Dosik, D. Hughart, and P. Krahe (consultant)
+,                   of the Energy Department
+February 19, 1980
+
+
+RENEWABLE ENERGY
+Page
+I     INTRODUCTION.....
+II.    THE CASE FOR RENEWABLE ENERGY........................          2
+III. RENEWABLE ENERGY SOURCES, TECHNOLOGIES AND
+APPLICATIONSATIONS...........................                 7
+A.   Biomass:   Solid Fuels ...9
+Wood Fuelsl...............                    .            9
+Agricultural and Processing Plant Residues .....          18
+B.   Biomass: Liquid and Gaseous Fuels .............          22
+Alcohol.........................................          22
+Biogas..........................................          24
+Producer Gas...          .     ...         .......  .    28
+C.   Other Solar Energy Sources ...................           29
+Solar Thermal.............................           29
+Photovoltaics ....... ........................          34
+Windmills..s................................          37
+Small Hydro ..........                                   42
+
+
+FIGURES
+1. Improved Wood Stoves
+2. Charcoal Kilns
+3. Six Tons Per Day Pyrolytic Conversion System (Proposed)
+4. Addition of Bagasse Drying System to Sugar Mill Boiler Plant
+5. Biogas Digestors
+6. Solar Drier
+7. Schematic of a Typical SOFRETES Solar Water Pumping System
+8. Photovoltaic Equipment
+9. Windmill Taxomony
+10. Small Hydro Equipment
+TABLES
+1. Water Pumping Windmills
+2. Wind Electric Generators
+3. Micro-Hydro Generating Equipment Costs
+4. Small-Hydro Site Survey Checklist
+5. Workshop Requirements for Fabrication of Small Hydro Turbines and
+Related Equipment
+
+
+I. INTRODUCTION
+1.        The potential of new and renewable energy resources for meeting
+developing country needs has attracted mounting attention in recent years both
+in the developing countries themselves and among aid donors.  Many developing
+country governments have expressed their "interest" in renewable energy and
+there appear to be few countries in the developing world today that do not
+have "programs" of some sort underway. Frequently, these programs consist of
+research and testing activities conducted on a small scale, ad-hoc basis,
+often under university or foundation auspices. However, a number of countries
+have larger and more systematic programs that enjoy considerable official
+support and a few countries--e.g., Brazil, India, Israel, the Philippines--have
+substantial, well funded and well organized renewable energy programs that
+play an important role in national energy plans. The run-up to the 1981 UN
+Conference on New and Renewable Energy Sources seems certain to see a further
+rapid rise in interest in renewable energy on all sides.
+2.        As regards aid, many of the major bilateral donors have made clear
+that they consider renewable energy a priority area. Earlier this year OECD
+reported that its members already had more than 300 projects underway in 60
+countries and many donors have undertaken major studies intended to assist
+them in defining priorities and developing expanded assistance programs.
+USAID, in particular, has a strong legislative mandate to assist in developing
+renewable energy and has proposed that the nearly $40 million currently budgeted
+for this purpose be more than doubled in FY81. Among the regional banks, IDB
+is providing technical assistance in a number of countries and has several
+loan projects under consideration; the Asian Development Bank is now reported
+to be committed, in principle, to working in renewable energy, although it
+still appears to be at a very early stage in its thinking on the subject. The
+major aid donors underlined their intention of stepping up aid in this area
+when they specifically pledged at the Tokyo summit to "do more to'help devel-
+oping countries increase the use of renewable energy."
+3.        The summit communique also stated that World Bank "coordination" of
+these aid efforts would be welcome. This suggestion must be regarded mainly
+as a tribute to the Bank's general standing in the development community
+since, with the notable exception of its operations in hydro-electric power
+and forestry, the Bank's involvement with renewable energy has so far been
+minimal. Although there has been considerable and growing interest in renew-
+able energy in many parts of the Bank, and a good deal of research and policy
+spadework has been done, the Bank effort to date has hardly been commensurate
+with the growing interest among developing countries and aid donors alike.
+Thus, the time has clearly come to take a hard and careful look at renewable
+energy with a view to assessing the nature and magnitude of the part the Bank
+can play in its development. This paper is intended to serve as a starting
+point and as background for a Bank-wide effort to determine, in practical
+terms, what it can do, when and where over the coming 3-5 years.
+
+
+-2-
+II. THE CASE FOR RENEWABLE ENERGY
+The Need
+1.        The growing concern with the role of renewable energy in the devel-
+oping world has arisen in response to three interrelated stimuli:
+- the international "oil crisis" and the impetus it has
+given to the search for alternative, indigenous energy
+resources everywhere;
+-  increasing recognition of the critical situation that
+has developed with respect to the supply of fuelwood,
+the renewable resource on which the developing countries
+depend so heavily for energy, particularly in rural areas;
+- growing appreciation of the need to increase the access
+of the poor to energy as part of programs to alleviate
+poverty and meet basic needs.
+2.        Spiraling oil prices and the continuing threat of international
+supply interruptions have providedLan even-stronger-stimulus-to-..interest -in -
+alternative energy sources in developing countries than it has in the indus-
+trialized world. Most obviously, the impact of the oil crisis on the balance
+of payments and economic growth of many developing countries has been severe,
+and their relative economic and financial weakness makes them particularly
+vulnerable to further financial shocks and supply constraints. In addition,
+developing countries regard the continuation of past rapid incr'ases in modern
+sector energy consumption as essential to the achievement of their growth
+obejectives and so have feared that the end of the era of cheap oil may have
+foreclosed prospects for rapid growth unless viable energy alternatives can be
+quickly found. As in many developed countries, conservation and increased
+efficiency in energy use are regarded as helpful, but not as adequate alterna-
+tives to increasing energy supplies to meet growing needs. Finally, the oil
+situation has stimulated interest in the development of indigenous energy
+resources by underscoring the vulnerability of the developing economies to
+external forces beyond their control and, thus, heightening general concerns
+about "dependency."
+3.        While the impact of the oil crisis cannot be overstated, interest in
+renewable energy has also been stimulated by an increasing awareness of the
+fact that, because of the worsening fuelwood situation, many developing
+countries face an energy crisis of major proportions in this area, too. In
+contrast to the oil crisis, a highly visible modern sector phenomenon, this
+
+
+-3-
+"second crisis" is a quiet one affecting the traditional sectors of the
+developing economies. However, quiet crisis that it may be, it affects a
+major element in the overall energy supply picture in many of the developing
+countries and poses a clear and present danger in the daily lives of much of
+the population of the developing world. We do not know with any precision
+what faction of total energy consumption in the developing countries is
+presently supplied by such traditional, renewable sources as firewood, char-
+coal, crop residues and animal dung 1/ but we do know that these sources
+account for virtually .all of the energy used in many rural areas and it
+appears that they may account for about 25% of total energy consumption in the
+developing world. Africa is most dependent on renewable sources, Asia somewhat
+less, and Latin America least dependent on renewable sources. This energy is
+devoted largely to household uses, primarily cooking, which accounts for the
+great bulk of total energy consumption in rural areas and among the urban
+poor. It appears that some 2 billion people, or about 75% of the population
+of the developing countries, presently use traditional fuels for cooking.
+Most of these have access to firewood, but between 0.5 and 1.0 billion use
+agricultural and animal wastes to fuel their cooking fires.
+4.        The rural energy crisis stems from the fact that the developing
+countries have been consuming their wood supplies far more rapidly than they
+can be renewed, with grave environmental and economic consequences. Fuelwood
+harvesting to meet the energy needs of rapidly growing populations, land
+clearing for agric-ul-tural- -purposes .and:&i-nereased-umbe-r-ingi--together,-resulted------ -
+in a reduction of same 500 million ha. (more than 15%) in the world's closed
+forest area during 1963-73. At present, it is estimated that the world's
+tropical forests are being consumed at a rate of some 1.29% or 10-15 million
+ha. per annum. Deforestation, particularly on steep hillsides, has contributed
+to soil erosion that has reduced upland water storage capacity and increased
+the siltation of reservoirs (shortening their lives), irrigation ,canals
+(raising maintenance costs) and river beds (increasing the danger of flooding).
+The search for fuelwood has also been an important factor in the destruction
+of covering vegetation in arid and semi-arid areas, thus contributing to
+desertification. As fuelwood supplies have become exhausted, people have been
+forced to turn increasingly to the burning of dung and agricultural residues,
+a practice'which deprives the soil of valuable nutrients and organic condi-
+tioning material. It is estimated that the amount of dung now being burned is
+equivalent to some 20 million tons of foregone food grain production annually.
+5.        The human cost of the renewable energy crisis has also been high,
+both in terms of its immediate impact on the lives of the poor, and on the
+long-term prospects for alleviating poverty. The severe fuelwood shortages
+that have emerged in many parts of the developing world have put a heavy
+1/ Although firewood and charcoal are frequently traded to some extent,
+these are generally considered "non-commercial" energy sources as distin-
+guished from commercial fuels such as kerosene, coal and bottled gas.
+
+
+-4-
+burden on the labor and cash resources of low income groups. Villagers,
+mainly women and children, who could previously collect fuelwood in the
+immediate vicinity of their homes, frequently now must search for it a half
+day's walk, or more, away. For example, villagers in the upland areas of
+Nepal are spending the equivalent of 5-19 person days per month on family
+fuelwood collection while in some parts of Tanzania 250-300 work days are
+required to meet family ne'eds. Nor is the impact limited to rural areas. A
+recent Bank survey found poor families in Bujumbura, the capital of Burundi,
+to be spending upwards of 30% of their income for fuel (mainly charcoal).
+6.        The long-term implications of the renewable energy crisis are
+perhaps even more disturbing. While people in much of the developing world
+are finding themselves hard put to maintain even their existing very low
+levels of energy consumption, the development process has historically involved
+substantial increases in energy use. Total energy consumption, including
+traditional as well as commercial energy, among the rural and urban poor in
+developing countries today is roughly estimated to average only 0.25 t.o.e.
+(tons of oil equivalent) per capita per annum, or just about what is generally
+considered to be a bare subsistence level. This figure compares with world
+average consumption of 1.25 t.o.e. and the 3 to 6 t.o.e. reached in the OECD
+countries. While the developing countries cannot and, indeed need not aspire
+to present Western levels of consumption, there can be no doubt that a sub-
+stantial increase in the availability of energy to lower income groups must be
+an intrinsic part of any poverty-oriented development strategy. Although
+quantification is -obviously fraught'with difficulty, studies have indicated
+that the minimum level of energy consumption consistent with a satisfactory
+life providing opportunity for improved health and well-being lies in the are&
+of 0.6-0.8 t.o.e. - i.e., double to triple the present consumption level of
+the poor in developing countries.
+Assets and Liabilities
+7.        The case for renewable energy is also buttressed by the particular
+advantages the developing countries possess with respect to both the sources
+and uses of such energy. The bulk of population of developing world lives in
+the tropical zones straddling the equator - i.e., in the latitudes which
+naturally receive the greatest amount of solar radiation. For example, India
+receives an average of 0.17 t.o.e. per m2 per year and the Sahelian countries
+0.19, compared with average insolation levels of 0.15 in the U.S. and 0.09 in
+Western Europe.1/ The abundance of solar energy is also reflected in the way
+that biomass flourishes in the tropics, giving many of the developing countries
+another major renewable resource. Unlike fossil fuels, which contain energy
+in relatively concentrated and portable forms suitable for use in large
+central generating facilities, solar radiation and biomass can be economically
+1/ Data for Sahelian and European countri6s are unweighted national averages.
+
+
+-5-
+exploited on a small scale, decentralized basis. These renewable resources
+are, thus, well matched to the needs of the developing countries with their
+still largely rural populations often dispersed in small, isolated villages.
+In addition, much of the equipment needed for many of the renewable energy
+technologies is suitable for domestic production in even the less industrially
+advanced of the developing countries.
+8.        The developing countries also possess the perverse "advantage" that,
+because of the relatively high cost to them of energy from conventional
+sources, the economics of renewable energy is likely to be more attractive,
+sooner than in the developed world, particularly for rural applications. In
+developing countries, the cost of electricity from large thermal or hydro-
+electric power stations supplying the national grid generally now falls in the
+5-10 cents per kwh range. However, it is estimated that only about 35% of the
+total population of the developing countries, and about 15% of their rural
+population is connected to the grid. Where the grid does not reach, the
+conventional alternative for meeting small scale needs is usually diesel
+generated power which can be estimated to cost, today, more than 20 cents per
+kwh from larger (e.g., 100 kw) units typically used to supply electricity to
+small towns and as much as 45 cents per kwh from the smallest (1 kw) unit used
+by individual consumers.
+9.        Needless to say, there are also important factors to be taken into
+account on the debit side when considering the case for renewable energy in
+the developing countries. The most important obstacles to the rapid exploita-
+tion of their renewable energy potential appear to lie in the following
+areas:
+- institutional weaknesses in energy planning and
+programming;
+-  lack of basic data on renewable energy;
+-  limited technical capabilities;
+problems of dissemination and socio-cultural adaptation.
+10.       As in so many areas of development, institutional weaknesses present
+perhaps the most formidable obstacles to the realization of the developing
+countries renewable energy potential. While again, the situation varies
+widely from country to country, the most general problem is the absence in
+most developing countries (like most developed ones) of coherent national
+energy plans that can provide a framework for defining the overall role of
+renewable energy, for determining priorities among the various technologies
+and for assigning resources accordingly. This, in turn, reflects the frequent
+lack both of the basic information on national energy balances essential to
+
+
+-6-
+rational planring and of planning agencies with the analytic capabilities
+necessary to assess the impact of alternative strategies on the nation's
+energy future. A second, related area of weakness is the lack of insti-
+tutional focal points for planning renewabie energy strategies, devising and
+supporting research and development programs and promoting commercial applica-
+tions.
+11.       The specific data base necessary to realistically assess the present
+and future role of renewable energy is also sorely lacking in most developing
+countries. Hard information on the existing situation with respect to the
+sources, uses, and costs of renewable energy is available only from a limited
+number of case studies and there have been few efforts to take careful stock
+of the extent and distribution of national resources for the production of
+energy from biomass, solar radiation, the wind or small hydro sites. In most
+countries, the launching of systematic efforts to fill the most serious data
+gaps is a prerequisite to the rational selection of development priorities and
+sound program planning. As regards technical capabilities, the technologies
+involved in exploiting renewable energy require varying degrees of scientific
+and engineering sophistication. A few involve new developments falling in the
+realm of high technology (e.g., photovoltaics); others, while also relatively
+new, demand more in the way of careful engineering than scientific sophistica-
+tion (e.g., solar collectors). The developing countries need, at a minimum,
+the capacity to keep abreast of the latest technical developments, to adapt
+technologies to'local conditions, and to apply them successfully. While local
+capability clearly extends far beyond this in some of the more advanced
+countries (India, Brazil, Korea), many of the developing countries presently
+do not have the intellectual or material resources to deal meaningfully with
+even the less sophisticated renewable energy technologies.
+12.       The fourth major area of concern is the weakness of.existing exten-
+sion services and other mechanisms of dissemination capable of reaching the
+rural and urban poor with knowledge about renewable energy and providing them
+with.the technical assistance necessary for its application. The latter area
+is a particularly important and sensitive one. Civen the predominance of
+household energy use among the poor, the impact of the renewable technologies
+will to a large extent depend on the developing countries' ability to make
+them available in forms compatible with the needs, capabilities and life
+styles of their people.
+
+
+-7-
+III. RENEWABLE ENERGY SOURCES, TECHNOLOGIES AND APPLICATIONS
+1.        While all renewable (as well as most non-renewable) energy, of
+course, originates from the sun, the specific renewable energy sources the sun
+provides us with are numerous and varied. So, too, are the means by which
+these renewable resources can be applied to meeting man's needs. They include
+botanical and bacteriological technologies (the raising of trees for firewood
+and the biogas digestor) as well as chemical and electrical ones (alcohol
+production and photovoltaics). The following pages seek to briefly explore
+the technologies that now seem to hold the greatest near-medium term interest
+for developing countries as regards their technical status, economic compet-
+itiveness and commercial availability. The principal developing country
+applications for which the various technologies are suitable, the major
+constraints on their dissemination and the impact they can be expected to have
+in meeting traditional and modern sector energy needs will also ie explored.
+2.        For the present purpose, these renewable energy sources may be
+considered as falling in three broad groups. The first is biomass in its
+traditional solid forms--i.e., the wood and agricultural residues the burning
+of which plays the critical role already discussed in meeting rural energy
+needs in developing countries. The second group encompasses the use of
+biomass in non-traditional forms--i.e., converted into liquid and gaseous
+fuels by chemical, biological and thermal processes. The third group consists
+of a number of quite disparate renewable energy sources that are "solar" in
+the broadest sense. These include the heat of the sun itself, the conversion
+of solar radiation to electricity and the exploitation of the energy content
+of the wind and small hydro sites. Conventional or large hydro is omitted
+from this discussion because it is familiar; wave power, ocean thermal and
+tidal power because they do not seem to be of even medium-term importance for
+developing countries.
+3.        As already discussed, it is in the area of biomass solid fuels that
+the most pressing need exists for developing renewable resources to meet the
+basic energy needs of much of the population of the developing world. This
+need can be met by expanding the supply of fuelwood, by improving the effi-
+ciency with which wood and other solid fuels are burned, and by making them
+available for broader, including urban, applications by the use of techniques
+that make them easier to transport and handle. These approaches offer great
+potential for development. Moreover, technical and economic problems appear
+to pose fewer difficulties in this area than they do in the case of other
+renewable energy sources. While the "technologies" involved--e.g., growing
+trees for fuelwood, conversion of wood to charcoal, and cooking stoves--are
+certainly susceptible to improvement, the existing technical base seems
+broadly adequate to support a development effort commensurate with the magni-
+tude of the need. However, this is also the area in which the rate of progress
+will be most dependent on success in institution-building, particularly in
+developing cost-effective means of dissemination, and in dealing with socio-
+cultural issues.
+
+
+-8-
+4.        The conversion of biomass to liquid and gaseous fuels is of particu-
+lar interest from a medium-longer term perspective because of the promise it
+holds out for using biomass to meet modern as well as traditional sector
+energy needs. Technologies for making fuels from biomass that can substitute
+directly for petroleum products are relatively well established. Alcohol
+production, the technology that has attracted the greatest interest to date,
+appears to be an economic proposition today where circumstances are particu-
+larly favorable, but is no panacea for the petroleum problems of the developing
+world. At present, costs of production generally appear too high to make
+alcohol economically-competitive. Nevertheless, research and development can
+be expected to reduce costs in existing agricultrual and industrial technol-
+ogies and, perhaps, to give rise to entirely new and less costly ones.
+Furthermore, cost considerations alone cannot be expected to determine national
+energy-strategies, given the unpredictability of the international oil situa-
+tion and the importance to national decision makers of economic security and
+related considerations. In the case of biogas production, which could make an
+important contribution to meeting rural, particularly household energy needs,
+the future is also clouded by uncertainties regarding both costs and benefits.
+Moreover, even if its economic problems can be "solved," the dissemination of
+biogas technology will require large scale extension efforts carefully tailored
+to socio-cultural circumstances.
+5.        Although the solar technologies in the third group range from the
+very new (photovoltaics) to the very traditional (windmills), all are on-line
+today with equipment readily available commercially from manufacturers in a
+number of developing countries as well as the industrialized ones. Prospects"
+for technical progress vary, with the potential naturally being greatest in
+the case of the never technologies. Solar water heating is already cost
+competitive under most conditions but the economics of technologies- Such as
+photovoltaics, wind, and small hydro is highly situation specific and can be
+expected to remain so. Technical progress and the rising cost of oil can be
+expected to considerably broaden the scope for economic applications but these
+technologies are unlikely to supply more than a small share of developing
+country energy in the foreseeable future.
+6.        Needless to say, no one of the technologies discussed below is
+likely to solve by itself the energy problems of the developing countries.
+However, each one can and will provide a part of the ultimate answer.
+
+
+-9-
+A. BIOMASS: SOLID FUELS
+WOOD FUELS
+Fuelwood Production
+1.        The bulk of the developing world's poor depend for energy on wood, a
+"renewable" resource that is, in fact, being critically depleted. In view of
+the magnitude of the need and the gravity of the situation, high priority
+clearly must be given to increasing the supply of fuelwood. Recognizing this,
+the Bank two years ago launched an expanded social forestry program under
+which eight forestry loans and credits totaling $125 million and fourteen
+forestry components in agriculture and rural development projects have already
+been made to finance about 360,000 ha. of fuelwood. After a maturation3period
+of 5-10 years, this area can be expected to yield roughly 3.5 million m  of
+wood with an energy value of about 0.85 million t.o.e. per annum. Ten other
+fuelwood projects are under preparation or appraisal.
+2.        Fuelwood production is being financed as part of national forestry
+programs and also through agriculture and rural development projects which
+include a wide variety of components. In some cases, they include establish-
+ment and management of plantations by a national forest service. In others,
+the emphasis is on establishment of woodlots by villagers and/or individual
+farmers. Nurseries to provide seedlings and extension agents to provide
+technical assistance are typical of these projects.
+3.        Woodfuel projects are innovations for many of the borrowers involved
+as well as for the Bank. Some of the projects financed can be characterized
+as pilot projects in the sense that they are not scaled to meet total estimated
+woodfuel requirements but, rather, to build the institutions, train the
+manpower, and test the technical packages and extension techniques that can
+form the basis for larger subsequent projects. In parallel, many projects
+include research, survey, and study components aimed at resolving the ques-
+tions that need to be answered before larger-scale projects are designed:
+quantification and geographic distribution of future woodfuel shortages, land
+availability, local trials of alternative tree species, the consequence and
+costs of failure to get more trees grown, potential for conserving wood
+through more efficient use, etc.
+.       4.        The economic justification of woodfuel projects has been a difficult
+issue both within the Bank and in obtaining the support of national governments.
+It is generally difficult to project how much burning of agricultural crop
+residue and animal dung or how much soil erosion, siltation, and flooding will
+
+
+- 10 -
+occur if a project is not carried out; what will the costs be in terms of
+agricultural production foregone? reservoir capacity lost? or flood damage?
+and what will people use for fuel, and at what cost, -.is wood becomes more
+scarce or unobtainable? Monitoring and evaluation studies are being included
+in fuelwood projects, which in time will give a better insight into these
+issues.
+5.        The major obstacles to woodfuel projects appear to be in the need to
+mobilize effective local participation in their planning and management and,
+to this end, to build and maintain strong local support for them. Adequate
+protection of woodlots from grazing and fire, competition for land, and
+development of adequate technical packages also pose serious issues. Woodfuel
+shortages are most often found in areas where the pressure of population on
+land resources is high and land that can be used for raising food cannot be
+spared for wood production. However, fuelwood species do not require land of
+as high a quality as is required for crop production and most projects utilize
+lands of marginal quality and/or lands bordering cultivated areas (e.g.
+roadsides, boundaries between fields). While a tree species appropriate for a
+given 4rea can often be identified without extensive trials the best species
+and sub-species and the best combination of planting, fertilizing, and disease
+protection techniques--the "technical package"--generally cannot be determined
+without local trials. Strong local support for woodfuel production is gener-
+ally needed to get the -land -andlabor zrequired-ta- estab1ish-  weedot andto
+assure maintenance and protection of the woodlot while it is growing to
+maturity.
+Stoves
+6.        Of equal, if not greater, importance than increasing the supply of
+firewood is improving the efficiency with which it is used. Available data
+indicates that the poor in the developing countries actually use more fuel for
+cooking than people in industrialized countries because they are able to
+effectively utilize only a small fraction of the energy available in the wood
+that they burn. This is because most people who cook with wood use "stoves"
+that accoiplish little more than holding the pan, pot or other cooking vessel
+at an appropriate height above an essentially open fire. ?uny improvements
+are possible in this system. Generally, they involve enclosing the fire,
+regulating the flow of air into the stove, and adding a chimney. These
+measures can increase efficiency by a factor of 4 to 5 in laboratory tests; a
+-halving of fuel requirements for household use has been claimed for a variety
+of designs. In some designs, the stove is given a large thermal mass, so that
+much of the heat which is lost for cooking purposes is released over an
+extended period after a meal is cooked and is thus useful for space heating.in
+high altitude and other areas where this is needed.
+7.        The primary purpose of the chimney is to improve the stove's draft.
+In effect, this allows for a greater extraction of heat from the combustion
+
+
+Figure I
+IMPROVED WOOD STOVES
+k1
+ii!
+(Section)
+Wood Storage
+(Complete Stove)
+
+
+- 12 -
+gases by increasing the efficiency with which their buoyancy is used to pull
+air through the stove. The chimney can also be used to conduct the exhaust
+gases out of the home, which helps improve eye-and-respiratory system health.
+In some areas, however, smoke in the home is considered beneficial because it
+drives away insects that attack not only people but also roofing materials.
+8.        Regulation of the flow of air into the stove is crucial because
+without it the improved draft produced by the chimney can cause the fuel to
+burn much faster than desired and actually reduce cooking efficiency.
+9.        Two general types of improved stoves have been developed. The type
+illustrated in Figure 1 is sometimes referred to as a "mud" stove, but is in
+fact made from a mixture of sand and clay with enough sand to prevent excessive
+cracking and enough clay to hold the stove together. The clay should fire,
+producing a hard surface in the firebox and flues. The chimney may be made
+from metal stovepipe, bamboo, lengths of ceramic pipe, or built up with bricks
+of stove material. Such stoves are estimated to cost no more than $5-10,
+including labor. They thus appear to represent an extremely low cost approach
+to effectively increase fuel supplies and to be affordable by the bulk of the
+poor without the need for subsidy or special programs.
+10.       The second type of improved stove is made with a metal shell,
+usually a used can of 5-gallon or larger capacity. An inner liner of ceramic
+or other mateiial may-be= us=ed--to- separatehe-fie-fromr=the-shed+, redveing -
+heat losses and prolonging the shell's life. The cooking vessel and food may
+be placed on top of the shell for frying or inside it for stewing and higher..
+efficiency. Some stoves of this type are designed to be packed with sawdust,
+rice hulls, or other loose fuels rather than for use with wood.
+11.       Improved stoves have been developed in many countries *but successful
+efforts to get them into widespread use are few. The best documented case is
+in Guatemala. The key elements in the program there appear to be (a) a
+feedback process during stove design development that allowed the stove
+designers to incorporate users' desires that have little or nothing to do with
+fuel efficiency (e.g., waist-level working surface, safety for children,
+resemblafice to department store stoves) and (b) an extension system that
+relies not on civil servants but on artisans with a direct interest in selling
+their services as stove builders.
+Charcoal
+12.       Charcoal is a widely used household fuel in areas at some distance
+from sources of wood because it is much more economically transported and
+handled than an equivalent amount of wood. A given volume of charcoal contains
+as much energy as the same volume of stacked, air-dried wood, but weighs only
+about half as much and is easily packed in bags. Charcoal is in many countries
+the most widely used household fuel in urban areas while firewood is used by
+
+
+- 13 -
+rural populations closer to the source of supply. Charcoal also has important
+industrial uses. Steel plants use it in place of coke in Brazil, Australia,
+and the Philippines. It is also used for manufacturing lime and cement, for
+drying hops, tobacco, and fish, and for smelting metals.
+13.       Charcoal is produced by pyrolysis, heating with insufficient oxygen
+to support combustion. When wood is heated to about 25000 (4800F), a distil-
+lation process occurs. Moisture and volatile materials in the wood evaporate
+leaving carbon and inert materials in the form of charcoal. Given sufficient
+oxygen, all of these materials except for the ash will burn, but in applying
+heat without oxygen it is possible to convert wood or other similar materials
+to charcoal, gas, and liquid fuels. At ambient temperature and pressure
+conditions, some of the volatiles will condense to form liquids while others
+remain gases. In most charcoal kilns, a substantial fraction of the raw
+material is burned to provide the heat required for the pyrolysis process.
+Modern kilns produce a ton of charcoal from about six cubic meters of wood,
+while traditional earthen kilns require as much as twice as much. The conver-
+sion from wood to charcoal thus has an energy efficiency of about 20% in
+traditional kilns or 40% with modern equipment. While much energy is lost in
+the process of conversion to charcoal, charcoal stoves are typically more
+efficient than open wood fires.
+14.       Charcoal is traditionally produced with little more equipment than
+an axe and a shovel; earthen kilns are made by covering a pile of wood with a
+layer of dirt (figure 2). . Some of 'the wood-must-_be burned-to--provide the,heat-
+needed to reduce the remainer to charcoal, and if the kiln is not carefully
+built and controlled, the fraction burned will be higher than need be. A
+disadvantage of earthen kilns are that gases and liquids produced are not
+captured; utilization of the gaseous and liquid products of pyrolysis as well
+as the charcoal can increase the overall energy efficiency from about 40% to
+about 80%. Moreover, the charcoal can be separated only imperfectly from the
+dirt and the process also produces about 20% of fines that are not useable as
+fuel.
+15.       Charcoal making can be improved in several ways. First, significant
+improvements can be made in the traditional earthen kilns. For example, a
+Brazilian research institute has developed a model kiln that significantly
+reduces the production of fines and from which volatile liquids can be con-
+densed for treatment elsewhere. Use of this kiln is now being promoted under
+an extension program. Secondly, steel kilns costing $1,000-2,000 and small
+enough to be hauled by truck or disassembled and rolled from site to site can
+be used.l/. This allows for better control of the process, so the fraction of
+1/ Sizes range from oil drums to cylinders 2-3 meters in both diameter and
+height.
+
+
+- 14 -
+Figure 2
+CHARCOAL KILNS
+layer of leaves-,
+grass, etc.
+layer of soil
+m                 'Earth 'Kiln
+1.5m
+PPottåblé Steel Kiln
+COMPONENT PARTS'
+2 cylinders(2.32m diameterxQ.91m high
+2.32m diameterx0.76m high
+1 cover  Q2.32m diameterx0.46m high
+at center (46)
+1 cap    (0.45m diameter
+8 smoke boxes @0.1 5x0.9x0.7 m
+with closeable
+caps and coilars
+4 chimneys Q)2.30m highx0.10m diameter
+
+
+- 15 -
+wood burned is reduced closer to the theoretical minimum and the problem of
+contamination with dirt is avoided. Earth and steel kilns are illustrated in
+Figure 2.
+16.       A third level of improvement is to use a larger masonry kiln. The
+lower surface: volume ratio and better insulation reduce loss of heat and
+thus further improve yields. However, use of these kilns requires supplying a
+flow of wood to a fixed point over a period of years or disassembling and
+rebuilding the kiln to follow the w9od supply. Estimated cost of a cement
+kiln with a capacity of about 180 m is $20,000.
+17.       With either metal or masonry kilns, the gases and vapors produced by
+wood distillation can be drawn off in a mixture also including the products of
+the combustion of that part of the charge burned to provide heat for the
+process. By letting the mixture cool, the liquid component ("pyrolytic oils")
+can be separated out. In the system illustrated in Figure 3, the remaining
+gas is used to fuel a drier to reduce the moisture content of the raw material
+and the charcoal and liquids are collected as products.
+18.       Finally, an externally heated retort can be substituted for the
+internally heated kiln. This requires an external heat source and conduction
+of the process heat through the walls of the container, but allows conversion
+of all the wood used to charcoal (if some other fuel is used as a heat source)
+and keeps the gases resulting from wood distillation separate from the combus-
+tion products.
+19.       The most widely successful charcoal production systems appear to be'
+the earth kilns and masonry kilns. The portable steel kilns have been used in
+a number of countries but seem to have been abandoned as often as not. The
+retorts are apparently too costly to be justified by their advantages.
+20.       Where significant improvements over commonly used charcoaling
+techniques are feasible, it may be possible to design project components to
+provide training for charcoal makers to improve yields. More capital-intensive
+kilns might be employed by forestry departments or commercial organizations to
+make prodqctive use of wood that would otherwise be wasted in land-clearing
+efforts or as logging or sawmill residues.
+Power Generation
+21.       The use of wood-fueled power plants by industries and/or public
+utilities also appears economically promising and in fact has been common
+practice in the saw milling and pulp and paper industries for many decades.
+A 1977 assessment of wood energy resources in New England includes a list of
+fourteen wood-fired boilers operating in the region. The Eugene (Oregon)
+Water and Electric Board uses wood to raise steam for a 33.8 MW power plant
+and to provide district heating for customers in the downtown area. The Jari
+forest products complex in Brazil includes a 55 MW wood-fired power plant that
+is perhaps the largest in the developing world.
+
+
+Figure 3
+SIX TONS PER DAY PYROLYTIC ::)NVCRSION SYSTCM (PROPOSED)
+Noncondensed
+Removable
+Covers
+nPut                  ________oic
+Feed                                              AC   r 2As-Received Feed
+Introduced and Dried
+00
+Particulate
+Material
+rO I
+Component
+'uyeres             Item      Name                   Component Description
+Gad       o  0                   1   Kilns           Sheet metal kilns, fabricated locally
+Gt2                Ducting         Sheet metal, insulated, fabricated locally
+Char          3   Cyclone         Sheet metal, insulated, fabricated locally
+Storage        4   Condenser       3-pass, tube type, fabricated locally-
+S   Draft Fan       Centrifugal, probably imported
+6   Modified IRRI   Batch drier, composed of both locally fabri-
+Drier           cated and imported parts
+
+
+-17 -
+Wood-fired power plants appear to be viable competitors to diesel
+plants in areas where adequate wood fuel supplies can be assured for the life-
+of a plant at costs on the order of $15-20 per ton ($75-120 per t.o.e.). For
+a simple comparison, we might start with the following assumptions:
+Capital cost:             $750/kw diesel
+$1500/kw wood
+Load factor:              3000 hr/yr (34%)
+Capital charge factor:    12% p.a.
+Heat rate:                3,000 kcal/kwh diesel
+3,500 kcal/kwh wood
+Fuel value:               1,400,000 kcal/barrel diesel
+1,750,000/ton wood (50% moisture)
+Fuel prices:             -$40/barrel =95.2i/U.S. Gallon Diesel
+$15/ton    =cae $20/cubic meter wood
+The asumptions yield fuel consumptions rates of 0.002 tons of green wood or
+barrels of diesel per kwh and unit costs (in   per kwh) of:
+capital    fuel    total
+Diesel                      3.0       8.0     11.0
+Wood                        6.0       3.0      9.0
+In this simple comparison, the wood-fired plant costs 3J/kwh more to build but
+saves Uw/kwh in'fuel costs and thus comes out 2J/kwh cheaper. This result is
+obviously not definitive. Non-fuel operating and maintenance costs would
+raise both totals and may reverse the apparent cost advantage of the wood-fired
+plant. Also, almost any of the assumptions listed could be altered by enough
+to change,the total cost by a least 1.0i/kwh without straining its credibility
+As representing a "general" case, let alone adjusting them to fit individual
+casese
+22.       Wood-fired power plants would generally be most competitive in
+relatively small.,plant sizes. As plant size increases, conventional alterna-
+tives become cheaper and the transportation costs associated with the wood-fired
+plants rise disproportionately.   Adding the i ssumption that wood is grown on a
+plantation at a rate of 7 ton/ha-yr (ca. lOin  ha-yr) to/ those made above gives
+us a plantation size of 1.43 ha/Kw or 14.3 km /Mw. _Tiran!:portation costs might
+rise from about $1.50/ton for a 10-Mw plant to $5/ton ftr a 100-Mw plant.
+
+
+-18 -
+AGRICULTURAL AND PROCESSING PLANT RESIDUES
+Agricultural Residues
+1.        The inedible or unsalable portion of food or cash crops and animal
+dung are widely used as household fuels where insufficient wood is available
+for basic cooking and heating requirements and incomes do not permit use of
+commercial fuels. This practice frequently has serious costs in terms of soil
+quality and/or labor required to collect and prepare these fuels. In such
+situations, it may be possible to address the problem in at least three
+different ways. One would be to increase the quantity of fuel supplied by the
+agricultural system by planting trees or woody shrubs around homes, along
+roads, etc., by selecting crop varieties or cropping patterns according to
+their yield of combustible residues as well as food. Where dung is an impor-
+tant fuel, the use of biogas digestors might be considered (see below). These
+would have the effect of allowing the dung to be used twice, once as fuel and
+again as fertilizer and soil conditioner. The third approach is to improve
+the efficiency with which the residues are used through improved stoves and
+thus reduce the demand.
+Processing Plant Wastes
+2.        Many agro- and forest-industrial processes involve separating the
+most valuable part-of the crop.,as -haest ed-oother-material-that -then--
+becomes available as a by-product. In some cases, there are alternative uses
+for this material that make it too valuable to use as fuel, but in other cases,
+it has a very low value or constitutes a disposal problem. Where processing
+plant residues are used as fuel, it is most often employed to provide the
+energy required to operate the processing plant itself. Three types of
+processing plants for which the use of residues as fuel is widespread are rice
+mills, sugar mills, and saw mills.
+3.        A parboiled-rice mill_1/ using traditional methods would not be able
+to meet its energy requirements from its own rice husks. A ton of pad,dy
+yields about 200 kg of husk, whereas the miJling of the same ton would require
+about 100 kg of husks for raising steam, 75 kg for heat for drying, and
+another 160 kg for producing electricity, making a total of about 335 kg, or
+two-thirds more than the amount available. However, it has been 6alculated
+that rice-mills could be made energy self-sufficient by using more efficient
+boilers and using an integrated system in which steam is produced at a high
+pressure, used to generate electricity and delivered at a lower pressure to
+drive the mill, and then to a heat exchanger where it provides heat for
+drying.
+1/ Parboiling is a form of partial cooking. It involves soaking the rice in
+50-600 C water, then pouring off the water and steaming the rice and, finally,
+drying it.
+
+
+- 19 -
+4.        Where re-fitting of a mill is not practical or is uneconomic or
+where inexpensive hydro-power or natural gas is available, it may make more
+sense to use the rice husks for energy needs outside the mill. Rice husks are
+used as domestic fuels in China, India, Japan, Korea, Malaysia, Philippines,
+and Vietnam. Rice husks have a high silica content which is a drawback in
+many applications, but is useful in cement manufacture: a cement plant in
+California reportedly gets about one-half of its energy and 15% of its silica
+from rice husks.
+5.        No more than half of the wood entering most sawmills emerges as
+lumber. The rest are trims, sawdust, shavings, and bark. It has been estima-
+ted that the energy requirements of the mill can be met with less than half of
+the residual materials. However, much of this material is often useable for
+paper, chipboard, and other products. In other cases, the excess may be used
+to meet energy demands outside the plant by selling the wood as is, in chip or
+pellet form, as charcoal, or as electricity if the mill's power system provides
+excess capacity.
+6.        One of the problems often encountered in the use of biomass fuels is
+that of a high moisture content. Green plant material such as fresh leaves
+may be 95% water by weight. This water increases the weight that must be
+handled and transported and absorbs heat as it evaporates when the fuel is
+burned. I/ Mechanical dewatering (e.g., by compression), sun-drying and
+air-drying are all useful techniques in come cases. The system illustrated in
+Figure 4 is. designed to increase the fuel valueof_f- sugar cane.bagas-se-y
+drying it with the exhaust heat from the sugar mill boiler, which because of
+its temperature is suitable for drying but not for power generation.
+Densification
+7.        Densification processes such as briquetting, pelletizing and chipping 2/
+produce relatively uniform and conveniently sized pieces of fuel from material
+that is too irregular and/or large or small to be easily handled, transported
+or burned. Wood chippers are commonly used in the pulp and paper industry,
+and a number of wood-fired power plants burn chips, including the Jari opera-
+tion in Brazil. Fuel pellets have been produced from the organic portion of
+municipal solid waste and from sugar cane bagasse as well as from wood. There
+are at least half a dozen pellet burning installations in the US, including
+two in Virginia. Charcoal briquettes are of course widely sold in developed
+countries.
+1/ Evaporation of a kilogram of water requires roughly 600 kcal, while com-
+bustion of a kilo of 0% moisture biomass usually yields from 4,500 to
+5,000 kcal.
+2/  Chipping does not increase the density of individual pieces, but does
+increase packing density.
+
+
+20-
+STORAGE
+BOILER
+RECL      S1            l
+MILL
+Typical Sugar Mill Boiler Plant
+STORAGE'BIE
+RECLAIM
+MI'LL
+Addition of Bagasse Drying System to
+Sugar Mill Boiler Plant
+
+
+- 21 -
+8.        Briquettes are made by pressing the material into molds together
+with a binder such as paraffin wax if the heat and pressure of the mold are
+not sufficient to form a lump that will stay together. Pellets are produced
+by extruding a dried and pulverized material under high pressure thr-ough small
+round dies. Sugar cane bagasse, wood particles and the organic portion of
+garbage are all suitable materials for pellets.
+9.        Wood chips are made by pushing wood, which may be as large as tree
+trunks and branches, through a rapidly spinning blade. The chips pack more
+densely and are more easily handled and shipped than the raw material, and
+they dry more rapidly. The machinery needed to produce them can be mounted on
+a truck chassis and taken into forests where the terrain and soil are suitable,
+so chipping can la a useful technique in some circumstances for extracting
+wood that would be left behind by conventional logging techniques.
+10.       Limited data suggests that processing material into pellets or chips
+may cost roughly $65 per t.o.e. in the US context. To be worthwhile, any of
+these processes would have to be employed in situations where the cost of the
+processing was repaid by economies in storage and handling economies.
+11.       Several applications can be envisaged for these technologies in
+developing countries. They might be used to reduce the handling and trans-
+portation costs involved in, for example, using the wood resources of the
+outer islands or Indonesia or the interior of Brazil or Zaire to meet energy
+requirements in urban. areas-..-They may -aso-bee-usefu& for preparationafg-  --
+biomass processing plant residues for storage and shipment. A third possibil-
+ity would be to use densification techniques to make useful fuel out of
+charcoal fines.
+
+
+- 22 -
+B. BIOMASS: LIQUID AND GASEOUS FUELS
+ALCOHOLS
+1.        Production of alcohol, particularly ethanol, from certain types of
+biomass is a commercially well-established technology. The technical feasi-
+bility of using alcohol as fuel, particularly in blends with gasoline, is also
+well established. Because of this ability to substitute directly for petro-
+Jeum, alcohol has been the subject of more popular and, in many cases, official
+interest since the oil crisis than any otrer biomass technology for the modern
+sector. This interest has been greatest in Brazil where, as the result of a
+massive government program, a large part of the vehicle fleet is already
+operating on a "gasohol" blend of up to 20% and where the government now plans
+to introduce to the general public, from next year, vehicles operating on 100%
+alcohol.
+2.        Two distinct types of alcohol can serve as renewable alternatives to
+petroleum fuels. Ethanol (ethyl alcohol or "grain alcohol") is produced by
+fermentation and distillation of carbohydrate materials and this is currently
+being done on a commercial scale using saccharine materials like sugar cane,
+sugar beets, and molasses and certain starchy materials like grains as feed-
+stocks. Although there has-been some experienct  ithyoductian y-ftom-aiotlier
+starchy crops (e.g., cassava) and from cellulosic materials like wood and
+agricultural residues and solid wastes, these technologies have not been -
+solidly demonstrated on a commercial scale. Methanol, also called "methyl
+alcohol" or "wood alcohol," can be produced by distillation of wood or
+synthesized from carbon monoxide and hydrogen which in turn may be obtained
+from natural gas or coal. While considerable research is being done on the
+subject, with the currently available technology production of methanol from
+biomass seems less economic than the production of ethanol.
+3.        Ethanol can be used to power vehicles either by itself or blended to
+a maximum of about 20% with gasoline. While ethanol has approximately only
+60% of the' energy content of gasoline per unit weight, it is 5% denser and
+appreciably improves the octane rating when blended with gasoline. Studies
+comparing fuel economies obtained with alcohol blends and regular gasoline
+have obtained a range of results, but seem to indicate that, as a first
+approximation, we can assume that the greater density and the octane boosting
+effecting of ethanol in blends compensate for its lower energy content so that
+it can substitute for gasoline on a roughly 1:1 volume basis with only very
+minor engine modifications. Ethanol blends do not impose stringent require-
+ments on handling and storage but can separate when water is present. When
+ethanol is used straight, however, a substantially greater volume is required
+to provide the energy equivalent of a given volume of gasoline, and alterations
+in the design of gasoline engines (particularly in carburation) are required.
+Also, due to its octane boosting value, ethanol permits energy savings in
+gasoline refining and substitutes for lead additives, leading to lower emis-
+sions levels.
+
+
+- 23 -
+4.        While there thus appears no reason to doubt the technical feasibility
+of replacing petroleum with ethanol, the economics of doing so need further
+analysis at the present time. Studies of experience to date suggest a wide
+range of production costs--between US$0.65 to US$2.30 per gallon--depending
+principally on the type and price of the agriculture raw material(s) used and
+the size of the plant (as well as the source and date of the study). The cost
+of alcohol production from molasses and sugar cane, the most attractive raw
+materials in the immediate future, has generally been estimated to be between
+US$1.00 and US$1.50 per gallon. The "spot" price of regular gasoline in the
+major international markets has risen to US$1.10-1.15 in January, 1980, but
+crude oil contract prices would have to rise substantially to "support" these
+product prices.
+5.        The economic disadvantage of ethanol production mainly reflects the
+high cost of feedstocks, which typically accounts for about 60-70% of total
+costs. Capital costs are relatively modest at about US$80-130 per litre
+(US$300-500 peT US gallon) daily capacity for a 120,000 litres per day (80
+million gallons per year based on 180 operating days/year) distillery based on
+sugar cane/molasses. While the distillation process is an energy intensive
+one, bagasse, a relatively low value mill waste, can be used as a fuel where
+sugar or molasses is the feedstock. If petroleum must be used as a fuel, the
+result is not only to increase costs but to significantly reduce oil savings.
+6.        The principal avenues for reducing ethanol production costs lie in
+the development of technologies that can employ cheaper feedstock (e.g.,
+cassava, sweet sorghum), process improvements that increase yields, reduce
+capital costs and/or reduce energy requirements, and the discovery of more
+valuable uses for process by-products. Intensive research and development
+activity is underway in each of these areas in many parts of the world, but it
+still seems too early to assess the prospects for significant breakthroughs.
+Success in producing ethanol from feedstock, such as cassava, that can be
+grown efficiently on less valuable land by small holders Appears particularly
+critical, since this would help to avoid the potential land use conflict
+between food and fuel, broaden the scope for ethanol productior, in the devel-
+oping world and enhance the employment benefits of this technology.
+7.        Although ethanol production cannot be considered an economic propo-
+sition today in most circumstances, the preliminAry results underway in IPD
+indicate that it can be economic at the present time where, owing to special
+circumstances, the real economic cost of the feedstock is very low and/or the
+cost of gasoline is especially high. Such circumstances may exist, for
+example, in sugar producing countries where land and labor costs are low
+and/or which have surplus molasses that cannot be economically exported owing
+to transport bottlenecks or high costs. Several such cases have already been
+tentatively identified; a number of others no doubt exist. IPD's forthcoming
+study will contain criteria for assessing the economics of alcohol production
+from various feedstocks in individual country circumstances.
+
+
+24
+BIOGAS
+1.        A "new" technology that has attracted wide interest because of its
+potential for meeting rural energy needs is the production of biogas (a
+mixture containing 55-65% methane) from the anaerobic 1/ decomposition of
+animal, plant and human wastes by means of the methane generator, or digester.
+The biogas so generated can be used directly in cooking, thus reducing the
+demand for scarce firewood. In addition, the sludge remaining after the gas
+has been generated retains the nitrogen and other nutrients present in the
+wastes fed into the generator and thus its use resolves the fuel vs. fertilizer
+conflict over the use of manures. Furthermore, the process may provide an
+environmentally sound means of disposing of organic wastes that can otherwise
+pose sanitary problems. The digester which accomplishes all of this is,
+moreover, a simple device whose construction calls for no special skills or
+materials. Finally, the digester is neither new nor untried; there has been
+considerable experience with these devices in various forms in both developed
+countries (mainly as an adjunct to municipal sewage plants) and in some
+developing countries. Much research and development has been devoted to the
+methane digester in India; they have been used successfully and in quite large
+numbers in Korea and Taiwan. However, it is in mainland China that biogas
+appears to have had its greatest practical success.
+2.        The biogas generation process is a biological one involving several
+types of bacteria and is not fully understood.o The process is sensitive to
+temperature, acidity-alkalinity and to the type of feedstock used. Most
+digesters are operat6d at 30-35 C, although the process can be maintained at
+temperatures down to about 1000. At temperatures well above the normal range,
+a different type of bacterial culture dominates ("thermophilic" as opposed to
+"mesophilic") and the process of methane production is greatly accelerated.
+However, a thermophilic digester must be kept at 50-68 C and the cost of main-
+taining these temperatur8s may exceed the cost of using the larger digester
+required to obtain the same production from a mesophilic system.
+3.        A digester consists basically of a sealed container filled with a
+mixture of water and the material to be digested. Gas produced rises to the
+top of the container and is extracted through a tube or pipe. In most
+designs, an upper portion of the container is reserved for gas storage. Raw
+materials are generally added through an inlet at one end of the digester and
+the digested "sludge" withdrawn via an outlet at the opposite end. At least
+four families of designs have been developed (see Figure 5). They are distin-
+guished by the means used to cope with variations in the quantity of gas in
+storage, and by the type of construction and materials used. The "Indian"
+design approach is to construct the digester in two telescoping parts, the
+1/ In the absence of oxygen.
+
+
+Figure 5
+BIOGAS DIGESTERS
+moveab(e cover    ,-fermentation liquid
+ý-iniet pipe                dome as segment of                                          WEIGHTS
+spherical shell                         RL%XR
+P                             CrNTANER
+---outlet pit
+w  a  l- ---                 -
+Bag Type
+flat bottomi      bottom  as inverted segment      residue tcken out
+af spherical shet1:              fromn middle
+Dome Type
+ri                    GAS CAP
+\.AIX ING PIT
+Fjoating Gasholder Type                                                                         ýL e a  CIIAN
+o DRYNGC, PITSL
+FERMENTrATrION WELL
+
+
+- 26 -
+topmost being a heavy metal "floating" gas holder that adjusts to changes in
+volume by means of a system of guides and counterweights. Two Chinese designs
+are less elaborate and require little in the way of fabricated metal parts or
+other expensive materials. The "early Chinese" solution was to let accumula-
+ting gas push the liquid contents of -the, digester-up -the- outlet (which is
+covered but not pressure-sealed) and to minimize fluctuations in water level
+by providing a large surface area between collected gas and liquid. "Recent
+Chinese" biogas units are built with domes constructed to withstand pressures
+of up to about 100 cm of water, and so accommodate fluctuations in gas quantity
+by allowing pressure to build up within a fixed volume. A fourth design, the
+"bag digester" makes use of a flexible material that easily adjusts to changes
+in volume by changing shape.
+4.        Biogas is usually produced under low pressures (5 to 10 cm water)
+and often contains small amounts of hydrogen sulfide, which may cause corrosion
+problems in any exposed metal parts with which the gas comes in contact.
+However, with suitable adjustments to the burners, most applicances made for
+natural gas or LPG can be adapted for use with biogas. Biogas can also be
+used to run internal combustion engines, but to use it in vehicles would
+require compressors and pressurized tanks.
+5.        India and China have both launched large-scale biogas programs at
+various times. The Indian program involved technical assistance and subsidies
+on construction costs but reportedly resulted in the construction of only
+about 37,000 plants over a period of time. One of the reasons for the
+apparent failure of the Indian biogas digester to catch-on on a large scale is
+its high initial capital cost -- a single family size unit cost about $375 in
+1976, the equivalent of several times the average income per capita in rural
+areas. Operating difficulties also seem to have been an obstacle to rapid
+dissemination. The care and feeding of a biogas digester so as to maintain
+efficient operation requires considerable skill and attention and villagers
+may not have received adequate training or technical support. In addition,
+the program was criticized and cut back on income-distribution grounds:
+benefits went to the relatively wealthy who had the cattle, land, and credit
+needed to build and use a biogas digester and, apparently, their introductirin
+induced an increase in the value of dung, so that the program had a negative
+impact on the real income of the poorest groups, who cook with dung obtained
+from others.
+6.        Biogas was one of. the technologies promoted in the Chinese "Great
+Leap Forward" program of 1958-60, but use on a widespread basis reportedly did
+not begin until the early 1970s. Since then the technology has spread rapidly,
+with the result that, according to some reports, there were "well over" four
+million biogas digesters in China by 1977. Although a sizeable number of
+large scale digesters are said to have been built by communes to provide fuel
+for farm machinery and electricity for workshops, most of the generators are
+apparently family sized units built by individual households as "private
+sector" activities. The simple Chinese designs are well adapted to do-it-
+yourself construction and reportedly require a cash outlay for materials
+equivalent, in Chinese prices, to roughly one-quarter to one-third of annual
+per capita income in rural areas.
+
+
+-27-
+7.        While China's success with biogas digesters undoubtedly owes much to
+the development of low cost designs, the Chinese experience also serves to
+underscore the crucial role of the socio-cultural environment and of effective
+institutions in the dissemination of biogas technology. The Chinese farmers'
+traditional concern with maximizing-.the- value of -all resources at his dispos-al,-
+the fact that manures have long been intensively utilized in agriculture and
+the long standing practice in many areas of collecting night soil in under-
+ground tanks no doubt all helped to create an especially propitious environment
+for the adoption of the biogas digesters in China. In addition, the rapid
+dissemination of biogas technology undoubtedly reflect the high degree of
+organization in the rural sector, in general, and the effectiveness of the
+country's extension-type services in disseminating information about biogas
+digesters and their construction, in particular.
+8.        Although there has been no dearth of studies of the economics of
+biogas, the results have been more productive of controversy than of consensus.
+Cost-benefit analyses of the comparatively well-documented Indian experience
+has yielded conclusions ranging from "virtually hopeless" to "highly profit-
+able," reflecting the widely different assumptins made about the economic
+input cost of dung, the quantity and value of the labor required to operate
+the digester and the value of the gas and sludge as fuel and fertilizer. The
+only point that seems to clearly emerge from these studies, taken together, is
+that the economic assessment of the biogas digester requires more definitive
+work on methodology and values and that careful study of the specific socio-
+economic context is essential to the proper evaluation of individual projects.
+There is. alsD clearly a*-need t-o .br-eaden the b as-eof Texerienc-eon-wh-it1
+economic analysis has been based and, in particular, to assess the impact on
+biogas economics of the less costly Chinese designs. A preliminary Bank
+investigation of the cost of reproducing the Chinese designs in other develop-
+ing countries, based on the reported material and labor requirements, indicated
+that the capital cost of a family size unit would in many countries be anywhere
+from 55-75% lower than one constructed on the Indian model.
+9.        The economic doubts and other issues raised by the Indian experience
+have stimulated interest in employing biogas technology on a community rather
+than household scale. Available construction cost data indicate that larger
+unite benefit substantially from economies of scale; in addition, community
+generatois could be operated by trained personnel for whom the necessary
+technical back-up to deal with operating problems could be more readily
+provided. On the other hand, community generators would incur additional
+costs (e.g., for dung collection and gas distribution networks) and would in
+general have to function as mini public utilities. Practical experience with
+community generators has beon very limited (although a few are reported to
+be oerating in Korea and India) but the concept appears to warrant further
+exploration. The economic case for biogas is likely to be strongest where
+large digesters are operated as part of commercial scale livestock, dairy,
+poultry or swine raising operations. Such units seem likely to be able to
+meet the heat and other energy needs of such enterprises and, perhaps, gener-
+ate surplus gas that could be distributed to neighboring villages. Israeli
+researchers have reportedly obtained high operating efficiencies in relatively
+sophisticated high temperature digesters suitable for commercial operation.
+
+
+- 28 -
+PRODUCER GAS
+1.        When wood or-other -carbonaceous -material (straw, nut- -shells, -coal,-
+bark and rice hulls have been used; the primary constraints appear to be
+mositure and ash content), is heated sufficiently in the presence of moisture
+and limited amounts of air, the water and carbon will react to form carbon
+monoxide and hydrogen in a combustible gaseous mixture known as "producer
+gas." Producer gas typically contains about 25% carbon monoxide and 15%
+hydrogen, giving it a fuel value about one-sixth that of natural gas.
+2.        Producer gas can be burned under boilers. When filtered, it is also
+a serviceable fule! for internal combustion engines, and it is produced for
+this purpose on a commercial basis from rice hulls, cotton gin trash, saw mill
+residues (principally bark in at least one case), and presumably from wood and
+coal as well. It can be used to fuel vehicles either by using a small,
+portable generator or by compressing the gas into cylinders, although this has
+not been done except in wartime and similar shortage situations.
+3.        The Bank has made at least two loans for projects involving the
+production of producer gas, but neither project is yet operational. The SEMRY
+rice mill in Cameroon will obtain its electricity from diesel engines running
+on gas produced from rice husks. Equipment cost estimates including fuel
+preparation and prime movers as well as gas generators work out to about
+$1,500/kw fLo.b. Europe for 500 kw-unit -izesz.- This--system-is-expected t,o-be
+less expensive in terms of both first cost and life-cycle costs than a conven-
+tional boiler and steam-turbine system. In the other project, a lumber mill
+and associated township in Guyana are to get their electric power from a
+similar system operating with saw mill wastes. The cost of the 6MW power
+station component at the Guyana project was estimated at appraisal at about
+$800/kw, but bids have not yet been received.
+
+
+- 29 -
+C. OTHER SOLAR ENERGY SOURCES
+SOLAR THERMAL
+Flat-Plate Solar Collectors
+1.        Water heating by means of the flat-plate collector is the solar
+technology most "ready"--technically, economically and commercially--for
+widespread application. The prototypical flat-plate collector is basically a
+simple device consisting of a flat box with a glass top and a black bottom
+encasing a set of tubes through which water, moving by convection or-with the
+help of a pump, is heated by the sun. In tropical countries, the tubing
+within the collector can be dispensed with and the water simply heated in a
+flat container placed horizontally. Solar water heaters have been for some
+time widely used in Japan (2.5 million units), Israel (100,000) and Australia.
+They are also now being used on a growing scale in the U.S., where an estimated
+30,000 units were installed in 1978. There is little data on actual use in
+developing countries, which still seems limited and scattered. However, there
+is evidence that developing country interest in solar heaters is now growing
+rapidly.
+2.        Domestic solar water heaters are being installed in the U.S. at
+---    -* --- co-sts of about $500-per es-quare m                   iiide=bsekp
+heaters for sunless days, protection against freezing, and other refinements
+not always needed closer to the equator. A system capable of providing 70-8D0%
+of the hot water needs of a family in Southern California presently costs
+$2,500-$3,000 and provides hot water at a cost of roughly $400-450/t.o.e.,
+which is competitive today at U.S. prices with heating water with electricity
+or oil (but not gas). The typical Japanese solar hot water systems are more
+modest and less costly than the U.S. models. Water is both heated and stored
+in wide, long, clear plastic tubes covered with glass with units yielding
+between 80-200 liters of warm water per day and costing about $100-$150. Even
+assuming such modestly built collectors to be relatively short-lived, annual
+capital charges would not exceed $25 per year. Then, if 150 liters of hot
+water are produced daily with a 400C temperature gain, the cost would be about
+$125 per t.o.e., considerably less than with conventional systems.
+3.        Widespread use of solar water heaters in developing countries need
+not depend upon imported devices. The capital costs of manufacturing facili-
+ties are relatively low and the manufacturing processes themselves quite
+straightforward. Thus, most developing countries could be expected to manu-
+facture their own solar water heaters, usually from locally available mater-
+ials--sheet metal, glass and insulating substances. Local manufacture has, in
+fact, already begun in a considerable number of countries despite the fact
+that the market continues to be largely limited to commercial enterprises,
+such as hotels; to certain public facilities, such as hospitals; and to the
+more affluent urban householders.
+
+
+- 30 -
+4.        Flat-plate collectors may also offer an economic means of meeting
+low temperature industrial process heat needs. Collectors of more sophisti-
+cated design using specialized materials can produce temperatures in the 900C
+range which are sufficient for a variety of industrial processes. A laundry
+service in California uses flat-plate collectors to provide low-temperature
+heat, while a potato chip factory in Oregon uses trough collectors to obtain
+higher temperatures. Such collectors are relatively expensive but in favorable
+locations may alone or, more likely, in conjunction with conventional sources,
+provide a least cost approach to meeting industrial energy requirements.
+Drying
+5.        The term "solar drying" includes techniques as simple as lying or
+Hanging the material to be dried outdoors, to simply dry in Le sun. Sun
+drying is appropriate for many uses, but has disadvantages that are important
+in some cases: it is difficult to control temperatures, the material to be
+dried cannot easily be protected from rain, wind, or animals, large areas are
+often required. Controlled drying in an enclosed space avoids these problems
+and may be worth the cost where a sensitive, high-value product such as fruit,
+tobacco, or fish is involved, where space is constrained, or where the climate
+does not permit sun drying.
+6.        Solar equipment can be used instead of conventional fuels to provide
+the heat needed for controlled drying. The use of such equipment has been
+demonstrated for meats, f.ruit, vegatables,  a       be.
+some cases, the solar drier has a transparent roof and functions as a green-
+house. In others, such as that illustrated in Figure 6, air is heated in a
+solar collector and moves by convection to the drying area.
+Refrigeration
+7.        Refrigeration can be provided using an absorption cycle with a solar
+collector as a heat source. In this type of refrigerator, cold is produced by
+evaporation of a liquid refrigerant with a suitable low boiling point (typi-
+cally ammonia), which is reliquified by bringing it into contact with a second
+liquid (the absorbant, typically water) into which it dissolves. The two
+liquids are represented by distillation at a temperature between their respec-
+tive boiling points. (This is where the solar heat is used.) At least with
+ammonia and water, absorption must take place at a lower pressure than the
+distillation, so some pumping effort is required to move the mixture of
+liquids to the distillation unit. Where mechanical power is available, a
+conventional pump is used. Where heat is the only source available, a third
+fluid (typically, hydrogen) is needed to create the hydrostatic forces needed
+to maintain circulation.
+8.        Potential applications of solar thermal refrigeration range from
+such small scale but important uses as maintaining the proper temperature for
+storage of medical supplies to cold storage of fish, meat, dairy products, and
+other foodstuffs. Economic feasibility is yet to be established.
+
+
+- 31 -
+Figure 6
+SOLAR DRIER
+TranLucn fibrgas top
+Sunliht                              .:
+wood
+aw door
+1.2'7
+Rack
+ckw,e.s ~e front -- -
+w.rm ir
+Åk      c in h-kp
+n   -           o:ttom...awre__    ______
+Section view of the fruit and vegetable drier
+\_                EXPANDER
+HYDRAULIC
+PUMP
+BOILER                    CONDENSER
+\R                                               NIC
+COLLECTORS°                                 °
+ORGANIC
+~LIQUID
+WATER-
+0    WATER
+- RESERVOIR
+Schematic of a Typical SOFRETES Solar Water Pumping System.
+
+
+- 32 -
+Concentrating Solar Collectors
+9.        Focussing or concentrating collectors are used to obtain temperatures
+above about 100 0C from sunlight. --Concentrating-cotac tors-geranday-tauatr-
+make use of diffuse sunlight such as is typical of overcast conditions and
+must be able to "track" the sun as it moves across the sky. The need for a
+tracking system gives economies of scale in system size for concentrating
+collectors, so they are usually considered as most appropriate for industrial
+and commercial applications. "Trough" systems, which focus along a line
+rather than a point, need to be moved only along one axis and appear to be the
+most practical types for providing process heat in the 180 0C - 300 0C range.
+10.       Solar industrial process heat systems are being developed, tested
+and demonstrated in the U.S. and other countries, but are not yet considered
+economic. A 1978 study by Mitre-Metrek suggests that "early commercial"
+systems will become available in about 1984 capable of producing process heat
+over 1000C at a cost of about $450 per t.o.e.
+Solar Engines
+11.       Several types of devices often referred to as "solar engines" have
+been developed or are being tested and/or demonstrated. Generally, they are
+either rotary or reciprocating engines working with the solar energy retrieved
+from an appropriate collector and made available to a fluid acting as the
+vector of -energy tran!sfer to the~mhait-at-parts- oftheengin'e- The`mechati-
+cal energy thus produced is either used directly for driving irrigation pumps,
+sawmills and other implements, or converted into electricity by means of a
+generator.
+12.       According to the upper temperature of the working fluid they may be
+classified as low, medium and high temperature systems. The low.temperature
+engines operate below 100 C? and use standard flat collectors while the
+others use focussing solar collectors in order to achieve higher working
+temperatures. In a typical low temperature system the hot fluid from the
+collector is discharged into an evaporator containing the working fluid,
+usually freons or simple hydrocarbons, which then flows to and expands into
+the reciprocating or rotating engine. From there it is condensed in an air
+or water cooled heat exchanger and then returns to the evaporator by means of
+a pump generally operated by the engine itself. The collectors and heat
+exchangers are of the conventional types known.
+13.       Several engines designed for low temperature application have been
+developed but only one of them, the SOFRETES (France), has reached the stage
+of commercial availability (see Figure 7). It has been extensively demonstra-
+ted in Africa and some Latin American countries; numerous operational problems
+reportedly have been experienced and the results in general appear less than
+encouraging. The medium and high temperature systems, although still in the
+
+
+- 33 -
+experimental stages, are basically similar in overall conception, although
+some of them present some advantages like the use of water or air as the
+working fluid and the possibility of using conventional steam engines or
+turbines. The most advanced deisgn is the Stirling hot air engine which is
+currently in limited commercial use.
+14.       Solar engines, particularly of the low temperature variety, are
+presently characterized by low efficiencies and large size that limit them to
+producing small amounts of energy at high cost. I/ Thus, the present technol-
+ogies do not seem likely to become competitive with conventional, or other
+renewable, energy sources for any but the most limited applications. However,
+much research is underway in the solar thermal field and new devices are
+constantly appearing. For example, a number of novel pumping systems, some
+with moving parts and some without, that reportedly have economic prom,ise are
+being tested in India and Africa.
+1/ The capital cost of even large SOFRETES engines produced in series is
+estimated at about $30,000/kw.
+
+
+-34-
+PHOTOVOLTAICS
+1.        Photovoltaic (PV) cells are unique among renewable energy devices
+because of their ability to convert solar energy directly into electricity.
+They also seem particularly well suited to developing country applications
+because they promise to be long-lived and relatively trouble-free in opera-
+tion. However, photovoltaic technology, which had its origins in the U.S.
+space program some 25 years ago, is at present a high cost source of electri-
+city. It is therefore being used commercially today only where relatively
+small amounts of power are required in applications remote from conventional
+power sources--e.g., telecommunications repeater stations, navigational buoys
+and beacons, remote monitoring equipment, etc. The use of photovoltaics to
+meet larger scale power needs is also being demonstrated by aid donors in a
+number of village electrification and irrigation projects, particularly in
+Africa. I/
+2.        Most PV cells manufactured today are made from extremely thin slices
+of high-purity silicon crystals, but cells made with other materials or
+amorphous silicon may come into wider use in the future. Because they are cut
+from single crystals, most PV cells are small, 5 to 10 cm in diameter, and
+assembled into arrays. (See figure 8). The power produced by PV cells varies
+in both voltage and amperage in response to changes in solar intensity and
+temperature. Solar cells are generally rated in terms of "peak" power, that
+which can. be-produced .-undert-.nearl-y,-optimal- -ter- estrial condition-sv *Ce 'lls Th--i '
+good sites produce four to six watt-hours per day peak watt. This means that
+quite large arrays are needed to produce even very modest amounts of power.
+For example, the 100 peak watt array that would be required to keep two 60w
+bulbs lit for four hours at night (by using batteries) would have to have a
+surface area of some 13 sq. ft. (1.2 sq. meters).
+3.        The price of PV cells is falling rapidly. Whereas PV cells in
+relatively small quantities cost as much as US$100-200 per peak watt as
+recently as 1970, prices today are quoted in the $10-20 range, depending on
+quantity, quality and the source of supply. The reported price for what may
+hav- been the largest commercial PV purchase to date (31 peak kilowatts for
+deiivery ihn 1979 to the Australian National Railways) works out to about $16
+per peak watt. While it is widely assumed that the PV array costs will
+continue to drop rapidly in the next few years, it now seems unlikely that the
+US Department of Energy target of reducing prices by 1985 to the US$0.50 per
+peak watt level (in 1975 prices) can be achieved.
+4.        As the price of arrays themselves drops, the cost of the balance of
+PV power systems--items such as structural supports, electrical controls, wiring,
+1/  The Bank is executing agent for a UNDP-financed global demonstration
+project that is testing photovoltaic as well as other solar power sources
+for small irrigation pumps.
+
+
+-.“」J스―[
+,:&‘珊． 섶’ ,：·，,Ph。fovo胸댜颯
+PhofovO什。！C 凡’O겁IU!e
+_ 7「r슨 i& &&  . ·꿸［
+
+
+36
+and batteries--become increasingly -important. These costs of course vary
+greatly from application to application. The Table below summarizes the major
+hardware and installation costs involved in a recent USAID funded PV demon-
+stration project in Africa.
+UPPER VOLTA "SOLAR VILLAGE"PROJECT
+6/78 Cost Estimates from NASA
+($/Peak watt)
+Solar Cell Modules (1,785 peak watts)       18.09
+Spares (2%)                                .73
+18.82
+Structure, wiring, other materials,
+test and assembly                        2.31
+Controls, instruments and assembly           4.59
+Tools and supplies                           0.56
+7.46
+Batteries and racks                          2.89
+Total equipment and assembly costs          $29.17
+Notes: Batteries --pr-ovi&e-200-0-
+Loads require 4.4 peak hour/day production
+Shipping costs not included.
+In this case, balance-of-system cost totaling more than $10 per peak watt
+(including batteries) accounted for more than one-third of total PV equipment
+costs. Economies in balance-of-system costs can be expected a,.PV cells costs
+decline because system designers will become increasingly concerned with
+reducing these costs and decreasingly concerned with maximizing the utiliza-
+tinn nf thp nA118. Thus. we miqht exnect to see round cells trimmed into
+squares or hexagons so that more can be packed in a square meter to reduce
+structural support requirements, controls might be made less expensive if it
+were less important to use the weak power produced during periods of low light,
+etc. However, the scope for reductions in balance-of-system costs is rela-
+tively limited and it seems unlikely that they will fall below, say, $7 per
+p0ak watt (in 1979 prices) by 1985.
+5.        If array costs can be reduced by 1985 to the area of $3 per peak
+watt, then total system costs could fall as low as $10 per peak watt. However,
+even "-t this level PV power would still cost 5U/kwh (assuming 10% p.a. capital
+recovery) in a location providing five peak hour equivalents per day, which is
+near the maximum. Thus it appears that PV power is unlikely, at least in the
+medium term, to be competitive with conventionally-generated power for village
+electrification and large-scale irrigation pumping. However, as costs are
+re(,'uced, an expanded role for photovoltaics can be foreseen in specialized low
+power applications (e.g., powering refrigerators in rural clinics and educa-t
+tional Ti'7  in village schools) in remote areas.
+
+
+- 37 -
+WINDMILLS
+1.        Windmills are a source of stationary mechanical power which was
+widely used in pre-industrial-times and-in -which-there-ha-s-b-eena-revival of
+interest. The most established applications historically were water pumping
+and grain-grinding, but windmills also powered sawmills, paper mills, and oil
+presses. A US National Science Foundation report estimates that in 1850 there
+were over six million windmills in the U.S. alone producing the mechanical
+J          equivalent of an average of about 0.5 kwh/day. The larger traditional Dutch
+windmills reached the equivalent of 35 kw unit size. Traditional windmills
+continue to be used in large numbers in parts of Crete and Thailand.
+2.        Windmills exist and are proposed in a wide variety of configurations,
+sizes, and materials, as illustrated in Figure 9. The wide diversity in
+designs appears to relfect both the need for different design approaches to
+match differing wind regimes and applications and the fact that experience has
+not yet sorted out all the advantages and disadvantages of competing designs.
+3.        The cost of harnessing wind energy has been estimated as being on
+the order of 204/kwh assuming a 5.5 hr/day operation with winds of 5m/sec (11
+mph). Table 1 shows cost computations for a variety of water pumping windmills.
+If these cost estimates can be confirmed in practice, then it would appear
+that windmills can compete with conventionally powered pumps in areas where
+connections to a-central electrical grid are not available and winds are of a
+strength which is available-in certain regions in many developing countries.
+Winds are not generally as strong in the tropics as they are at higher lati-
+tudes, but there are areas where the trade winds and/or geographic features
+such as mountains and coast lines produce average windspeeds over 5 m/sec.
+The most interesting areas for wind-powered water pumps are presumably those
+with adequate winds and poor rainfall. Among these would appear to be parts
+of northern Mexico, Peru, Chile, Argentina, northeastern Brazili coastal areas
+of Africa northward from about Senegal in the west and Somalia in the east,
+Namibia, Yemen PDR, India and Pakistan.
+4.        Windmill powered pumping is generally more competitive for low-head
+than for high-head applications. This can be explained by the economics of
+well drilling (much more rapid cost escalation with depth than with diameter),
+which encourage the use of smaller numbers of larger diameter wells when
+drawing from deep sources than from shallow ones. Both the greater depth and
+the greater flow rate per well imply the need for more powerful prime movers,
+while windmills appear to have their comparative advantage in small unit
+sizes.
+5.        Some approaches to windmill designs emphasize minimization of cash
+costs and keeping materials, fabrication, and maintenance requirements within
+the capabilities of local artisans. The resulting "appropriate technology"
+designs appear to provide least-cost solutions in many cases, at least where
+low pumping heads permit low unit sizes and where modest windspeeds encourage
+light weight designs.
+
+
+Figure 9
+Windmill Taxonomy
+Horizontal Axis Windmills                                      Vertical Axis Windmills
+(primarily drag type)
+Savonius   Multi-bladed
+One-blade       Three-blade  Fan-wheel    Bicycle-wheel                        Savonius     Hooded         Cupped
+Two-blade
+(primarily lift type)
+up-wiind      down-wind
+up-l-.nd  d=Darrieus               -Darrieus     Giromill         Turbine
+Sail-wing
+(combinations)
+Enfield-Andeau
+Split
+Savonius/ý-Darrieus Savonius      Magnus         Airfoil
+Multi-rotor                Counter-rotating
+Co thers)
+Cross-wind Cross-wind   Diffuser Concentra- Unconfined
+Savonius    paddles               tor          Vortex              Def lector   Sunlight       Venturi
+Combined
+
+
+- 39 -
+Table 1
+WATER PUMPING WINDMILLS
+Initial Pumping    Unit      Unit     Starting-Rated-Cutoff   Fabrication                Principal
+Cost    Power      Cost       Cost        Windspeeds          Requirements                  Use
+($)     (watts)    ($/kw)     ($/kwh)        (m/sec)
+SAIL ROTOR TYPES
+Asia Hybrid                  350     '514       680        7-8         1.6-5.6-6.0         Good carpentry             Theoretical
+Cretan                      480       43      11000       54-74        2.2-3.5-4.0         Metal welding             Irrigation
+Madurai                      4oo      51       7800       76-88        1.7-2.2-4.5         Metal welding             Test
+NAIE                         500      74       68600      56-67        n.a.-3.5-n.a        Metal drilling, cutting   Aquaculture
+Omo-11                       350      14      25000      112-158       n.a.-4.6-5.0        Metal welding              Irrigation
+Omo-14                       360      31      12000       55-77        n.a.-4.6-5.0        Metal welding              Irrigation
+Omo-16                       400      57       7000       34-47        n.a.-4.6-5.0        Metal welding             Irrigation
+Sarvodaya                    300      43       7000       68-78       n.a.-5.4-6.o        Metal welding             Irrigation
+Thai bamboo                  165      89       1900       21-24        n.a._-4.2-6.0       Rough carpentry           Salt ponds
+Thai cloth                   246     237       1000       11-13        2.8-3.7-6.0         Rough carpentry           Salt ponds
+MULTI-VANE TYPES
+Aeromotor Argentina         2538     177      14000       47-76        n.a.-6.7-n.a.        Gear making               Cattle
+Baker                        750     188       4ooo       13-21        n.a.-6.7-n.a.        Gear making              Cattle
+Bossel                        92      22       4200       69-75        n.a.-n.a.-n.a.      Metal welding             n.a.
+IT,                         1800     49       37000      252-309       n.a.-5.6-n.a.       Machine lathing           Test
+Sahoros                      100     26        3900       63-68        2.0-n.a.-n.a.      Machine lathing           Cattle
+Sanit                       1084     31       34000      147-211       2.2-n.a.-n.a.       Machine lathing           Cattle.,
+Southern Cross "iz"        1016     103        9900       33-54        n.a.-n.a.-n.a.      Gear making               Cattle
+Tyabji                      1530     148      10000       27-36        2.2-n.a.-19.4       Machine lathing           Irrigation
+USAID 1954                    84      21       4100       35-42         n.a.-n.a.-n.a.      Machine lathing           Proposal
+USAID 1960                   275      25      11000       97-114       n.a.-n.a.-n.a.      Machine lathing           Experimental
+WP-2                        1200     149       8100       27-44        2.2-4.4-13.4         Gear making              Domestic
+MEDIUM SPEED 4-BLADE ROTOR TYPE
+Moorhouse                    153       3       47000     350-429        2.7-n.a.-n.a.       Steel casting             Cattle
+g    HIGH-SPEED ROTOR TYPES
+Allgaier                   20000     529       38000     154-223        n.a.-n.a.-n.a.      Hydraulics fitting        Test, Irrigation
+Thai 2 blade                 268     231        1200       7-9          n.a.-5.8-n.a.       Fine carpentry            Irrigation
+NOTES:   Pumping power and unit costs based on pump output, at rated windspeed, corrected to 10 meter head and converted to electrical
+units at 35 m3/hr per kilowatt. Unit costs per kwh inc ude interest and amortization over estimated life plus spare parts
+allowance, assuming 2000 hr/yr. operation at 5 and 10 percent discount rates. 1.0 m/sec = 2.24 mph.
+Source: M. M. Sherman, "Practical Applications of Wind-Powered Water Pumps." ESCAP document dated 17 Feb. 77.
+
+
+-40-
+6.        Wind-driven electric generators are available commercially in unit
+sizes up to at least 15 kilowatts rated capacity. Table 2 indicates that some
+of these can produce power at costs of 25-50w/kwh at low load factors and
+5-154/kwh at high load-factors in.ocations with-average_ wids,eds--in-excess..
+of 5 m/sec (11 mph). The Bank has financed at least one wind-power feasibility
+study as a component of a power loan. Similar studies may be justifiable in
+other countries with small, isolated load centers in coastal or other areas
+with good wind regimes.
+7.        Large windmills capable of generating from several hundred kilowatts
+up to several megawatts of power have been demonstrated (although accidents
+with large windmills have not been uncommon) and are under further development.
+Such windmills could serve as central generating stations integrated.into the
+national grid. However, until the design and operating problems of these
+devices have been worked out in the developed countries, which generally have
+better wind resources as well as technological expertise, it is probably
+premature to consider grid-connected windmills in developing countries.
+
+
+-41-
+Table 2
+SMALL WIND-GENERATOR COST ESTIMATES
+Model                        Elektro        Dunlite         Dynergy
+WVG-50         BP           5m Darrieus
+Installed cost (1977)         $11,770       $9,020        $13,230 1/
+OMR cost                      $430/yr       $260/yr       $430/yr 2/
+Output at windspeed of:
+10 mph =  4.5 m/s          1.5 kw        0.1 kw         0.5 kw  -
+15 mph =  6.7 m/s          3.5            0.5           1.7
+20 mph =  8.9 m/s          5.0            1.2           4.3
+25 mph = 11.2 m/s          5.0            1.8           5.0
+Unit cost at 2000 hr/yr (23%) operating factor
+10 mph                   541/kwh       5814/kwh       175w/kwh
+15 mph                    23.0          116            52
+20 mph                    16.1           48            20.4
+25 mph                    16.1           32            17.5
+Unit cost at 8000 hr/yr (91%) operating factor
+1D -mph -    -   -    - - 1-3.4-/kwh-- -1454/hwh----    4   w
+15 mph                     5.7           29            12.9
+20 mph                     4.0           12.1           5.1
+25 mph                     4.0            8.1           4.4
+Unit cost estimate assumes 10% p.a. capital charge.
+Sources: W. R. Lorman, Digest of Equipment for Converting Solar,
+Wind and Geothermal Energy into Electric Power for USN
+Application Ashore, November 1978, and Dynergy Corp.
+literature, November 1978.
+1/ 1978 FOB cost plus 20%
+2/ Assumed equal to Elektro
+
+
+-42-
+SMALL HYDRO
+1.        Waterwheels have been used for-thousands- of-years, primarily to
+grind grain. One historian estimates that in the year 1800 there were about a
+half-million waterwheels in Europe producing the mechanical equivalent of
+between six and twelve watts per capita. I/ Waterwheels are reportedly in
+fairly wide use today in mountainous areas in Nepal, Afghanistan and Turkey,
+constructed by skilled traditional artisans using well-known and reliable
+technologies (Figure 10). Waterwheels have recently attracted commercial
+interest in industrial countries and prices quoted in 1978 for fiberglass
+waterwheels for export from the U.K. in kit form were as follows: 2/
+Wheel diameter             16 ft.    20 ft.
+Maximum advised rpm       10         6-8
+Maximum output (approx.) 11 kw       25 kw
+Price                     $2400      $3600
+$218/kw   $144/kw
+Where appropriate sites can be found, these cost levels and the simplicity and
+considered for energy requirements that can be served by a stationary, low rpm
+power source.
+2.        Turbines are generally preferred to waterwheels for electricity
+production because turbines spin at the much higher rates required by electric
+generators. The Bank has, of course, financed the purchase of many turbines
+for use in conventional hydro-power projects. The discussion here will focus
+on units with capacities of no more than several hundred kilowatts and most
+often 5-50 kw used to provide electricity to a few users or to individual
+villages. Turbine systems with capacities of less than 50 kw have been
+installed in over two dozen developing countries, and there are reportedly
+over 80,000 small-hydro systems operating in P.R. China.
+3.        Unit costs of small-hydro projects can be expected to vary widely,
+depending on the characteristics of the site, the available water resource,
+and the distance to, magnitude, and time-pattern of the electricity demand.
+The lowest cost sites are those which can provide large volumes of water and
+high heads without much investment in civil works. Transmission losses over
+even a few hundred meters can be substantial if investment costs are minimized
+1/ F. Braudel, Capitalism and Material Life 1400-1800, Chapter 5.
+2/ D. McGuigan, Harnessing Water Power for Home Energy, p. 18.
+
+
+-43 -
+Figure 10
+SMALL HYDRO EQUIPMENT
+1                           1
+-    -        >4                     i:Z  ~
+4Ä
+Sixteen foot water-wheel
+Ink&*
+Tpc.a..oPlan# and
+y controls
+3 7 0 m.
+Typical layout of micro hydro-plant.
+
+
+-44-
+by using low voltages and light wiring, so profimity to demand is an 'important
+consideration in evaluating small hydro projects. Electric systems designed
+to meet demands that are concentrated in a few hours each evening will gen-
+erally have higher costs-pe-r kwh-than-a-yst.emswithr-esCOnsta.nt-loads.--A v..
+recent UNIDO/IPCO paper 1/ cites a typical range at $500 to $3,000 per kilowatt
+for small hydro stations (excluding transmission and distribution) with the-           C
+cost broken down roughly as follows: (component costs include installation)
+Turbine                              20-30%
+Pipeline and related metal parts     10-20%
+Electrical parts                     15-30%
+Civil works                          30-60%
+This cost range appears to apply to projects with larger capacities than those
+referred to in Table 3, which shows about the same range of costs for purchase
+of the turbine and electrical parts alone. There are clearly important
+economies of scale in small hydro generating equipment and probably significant
+differences in equipment quality and prices across suppliers as well.
+4.        The Intermediate Technology Development Group (UK) has compiled cost
+estimates for a "model" 40--kw project based on six existing and planned sites
+in Nepal. Its total cost would be $1600/kw, which would probably make it a
+least-cost solution for village electrification. However, the affordability
+of such a solution is another matter. Cost per kwh would be very high unless
+significant' demand exists -for-electricity- for-purposes-other-than-domes tic -
+lighting. Daytime demand that could appreciably raise the load factor might
+be for commercial, small industry, or agricultural uses, or from households if
+incomes are sufficient to allow for purchase of a variety of appliances.
+5.        Small hydro stations convert hydro power to electricity with effi-
+ciencies between 50 and 75 percent. The volume of water required to produce a
+kwh is thus between 500 and 750 cubic meters divided by the number of meters
+of vertical drop or "head" that is developed. This volume of water can be
+compared with those required for irrigation: if a household lives near a site
+that provides five meters of head, the flow required to produce 1.5 kwh/day of
+electricity would cover 6.6 hectares to a depth of one meter over the course
+of a year.
+6.        A national small-hydro development program might begin with a
+general survey permitting identification of an area within which prospects for
+projects were generally favorable and a first estimation of the number of
+sites and the type of equipment that would be needed. On the basis of this
+information, a second stage could be designed that would include the more
+1/ "The promotion of Investment in Projects for The Production of Mini-
+hydro Electric Generation Units in Developing Countries", presented
+in Kathmandu, September 1979.
+
+
+-45-
+Table 3
+MICRO-HYDRO GENERATING EQUIPMENT COSTS
+Page ref.    Equipment       Max. Power   Rated Head    Cost       Unit Cost
+(kw)        (feet)      Cs)         ($/kw)
+31           IPD Pelton        0.125        46          2385         19000
+1.9          290                     1300
+33           Electro Pelton    0.3          n.a.        1,100/a      3700/a
+24           n.a.      12,000/a       500/a
+32           SHSE Pelton       15           n.a.        6,000         400
+39           Turgo             18            97        12,160         680
+40           Hydec Turgo       25           40         19,200         770
+47           Ossberger         15            15        36,000        2400
+51           Hydro Light       5            29         11765/b       2400/b
+61           IPD Propeller     2            5-50        3700         1800
+63           Jyoti             3-5          10-40     5500-8000      ca 1800
+10          10-40      6000-7000     ca 650
+25         197-425     7500-12000    ca 400
+64           Canyon            0.5          50         395            790
+Notes:
+Cost basis apparently 1977-1978.
+Costs include turbine, generator and alternator, but not civil works, batter-
+ies, or distribution investments.
+a/  Generator and alternator may not be included.
+b/ at 1.7 D-Mark per dollar
+Source: Harnessing Water Power for Home Energy by D. McGuigan, 1978
+
+
+-46-
+detailed studies of individual sites needed to design the civil works, specify
+the equipment requirements 2/, and verify the economic feasibility of each
+installation. If appropriate, establishment of plants to fabricate the
+turbines and some of the other-equipment-could be included.-3f Financial-and
+institutional arrangements would also have to be made in this stage. Finally,
+the third stage of the program would be the construction and installation
+phase.
+2/  Table 4 indicates the type of data required.
+3/  Table 5 summarizes UNIDO descriptions of the workshops and staffing
+that would be involved. Small hydro equipment is manufactured in India,
+Nepal, P.R. China, Colombia, Indonesia, and, probably other developing
+countries. Most manufacturers produce equipment to cover a range of flow
+rates and heads.
+
+
+-47-
+Table 4
+SMALL-HYDRO SITE SURVEY CHECKLIST
+(Data required for-equipment cost estimate)
+A. Site Characteristics
+1. Gross head
+2. Expected net head
+3. Run-of-river or storage?
+4. Penstock length
+5. Penstock diamters
+6. Number of units to be installed
+7. Minimum height of turbine house floor above
+normal tail water level
+B. Operating Environment
+1. Altitude
+2. Maximum ambient temperature
+3. Tropical climatic conditions?
+4. Water consistently clear or sometimes silty?
+C. Electrical System Requirements
+,1. kw to be installed
+2. Expect extended operations at less than half
+load?
+3. 50 or 60 cycles?
+4. Voltage
+5. Synchronous or asynchronous generator?
+Source: Adapted from Gilkes, Water Turbines for Hydro-Electric Power
+
+
+-48-
+Table 5
+WORKSHOP REQUIRENENTS FOR FABRICATION OF SMALL HYDRO TURBINES
+AND RELATED EQUIPMENT
+Fabrication of          Conduits, weed screens,          Kaplan, Francis
+inlet gates, shut-off            and Pelton Turbines
+valves, and draft tubes
+Engineers                      1-2                              2
+Technical designers            --                               3     -
+Foremen                                                         2
+Skilled metal workers          ca. 10                          20
+Unskilled workers              ca. 5                            5
+Admin. staff                   --                               3
+Workshop area                  600 m                            600m
+Equipment budget               $165,000                         $440,000
+Notes: Fabrication of a 200--kw turbine in the assumed workshop would take up-
+to 10-16 months in the pilot production phase and half that long in regular
+production. The simpler equipment could be fabricated in from 3-6 months in
+the workshop described. The workshops would require power, steel sheet and
+profiles, foundry castings, small standard parts, and access to tool grinding
+and templates for maintenance.
+Source: UNIDO Investment Cooperative Program Office (IPCO).
+Paper presented in Kathmandu, September 1979.
+

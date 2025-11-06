@@ -1,0 +1,32 @@
+[
+    {
+        "query": "How does renewable energy help reduce greenhouse gas emissions?",
+        "generated_answer": "I don't have enough information based on the provided data.",
+        "reference_answer": "Using renewable energy sources such as solar, wind, and biomass reduces CO2 and other greenhouse gases.",
+        "bertscore": {
+            "precision": 0.0594,
+            "recall": -0.119,
+            "f1": -0.0297
+        }
+    },
+    {
+        "query": "What are the benefits of solar energy?",
+        "generated_answer": "The benefits of solar energy, as indicated in the context, include:\n\n1. **Direct Conversion to Electricity**: Photovoltaic (PV) cells can convert solar energy directly into electricity, making them a unique renewable energy source.\n\n2. **Long Lifespan and Low Maintenance**: PV technology is expected to be long-lived and relatively trouble-free in operation, which is advantageous for users, especially in developing countries.\n\n3. **Suitability for Remote Applications**: Solar energy can be effectively used in remote locations where conventional power sources are unavailable, such as telecommunications repeater stations, navigational buoys, and remote monitoring equipment.\n\n4. **Potential for Village Electrification**: Solar energy is being demonstrated in larger-scale applications, such as village electrification and irrigation projects, particularly in Africa, which can improve access to electricity in underserved areas.\n\n5. **Abundance in Tropical Regions**: Many developing countries are located in tropical zones that receive high levels of solar radiation, making solar energy a readily available resource.\n\n6. **Support for Biomass Growth**: The abundance of solar energy contributes to the flourishing of biomass in tropical regions, providing another major renewable resource.\n\nOverall, solar energy offers a sustainable and accessible solution for meeting energy needs, particularly in developing countries.",
+        "reference_answer": "Solar energy is sustainable, cost-effective, and environmentally friendly.",
+        "bertscore": {
+            "precision": -0.2142,
+            "recall": 0.3105,
+            "f1": 0.0359
+        }
+    },
+    {
+        "query": "Explain the advantages of wind energy for rural areas.",
+        "generated_answer": "The advantages of wind energy for rural areas, as indicated in the context, include:\n\n1. **Cost Competitiveness**: Windmills can compete with conventionally powered pumps in areas without access to a central electrical grid, especially where wind conditions are favorable. The estimated cost of harnessing wind energy is around 20-40 kWh, making it a viable option for rural electrification.\n\n2. **Local Resource Utilization**: Wind energy can be harnessed in regions with adequate wind resources, which are often found in developing countries. This allows rural areas to utilize local natural resources for energy generation.\n\n3. **Independence from Grid**: Windmills can provide a source of power in remote areas where connections to the national grid are not available, thus enhancing energy access for rural communities.\n\n4. **Potential for Domestic Production**: Much of the equipment needed for wind energy technologies can be produced domestically, even in less industrially advanced countries. This can stimulate local economies and create jobs.\n\n5. **Attractive Economics**: Due to the relatively high cost of conventional energy sources in developing countries, the economics of renewable energy, including wind, may be more favorable sooner than in developed countries, particularly for rural applications.\n\n6. **Diverse Applications**: Wind energy can be used for various applications, such as water pumping, which is crucial for agriculture and irrigation in rural areas.\n\nOverall, wind energy presents a sustainable and economically viable option for enhancing energy access and supporting development in rural regions.",
+        "reference_answer": "Wind energy provides clean electricity, supports rural electrification, and reduces dependence on fossil fuels.",
+        "bertscore": {
+            "precision": -0.1688,
+            "recall": 0.2881,
+            "f1": 0.0507
+        }
+    }
+]
